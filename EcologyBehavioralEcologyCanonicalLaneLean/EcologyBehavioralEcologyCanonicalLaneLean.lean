@@ -1,0 +1,7 @@
+import EcologyBehavioralEcologyCanonicalLaneLean.AdmissibleClass
+
+namespace HautevilleHouse
+namespace EcologyBehavioralEcologyCanonicalLaneLean
+
+end EcologyBehavioralEcologyCanonicalLaneLean
+end HautevilleHouse
